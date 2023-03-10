@@ -2,8 +2,8 @@ import { Link } from "react-router-dom";
 const MenuBar = () => {
     return (
         <aside style= {{height: '100vh'}}  className="menu-bar border-4 border-pink-300 px-6 fixed top-0 left-0">
-            <ul className='mt-20 text-purple-500 text-2xl flex flex-col items-center'>
-                <li className='mt-5'>
+            <ul className='mt-20 w-full text-purple-500 text-2xl flex flex-col items-center'>
+                <li className='mt-5   hover:text-purple-500 hover:bg-pink-500 active:text-purple-500 active:bg-pink-500'>
                     <Link to="/">
                         <i className='fa-solid fa-house'></i>
                     </Link>

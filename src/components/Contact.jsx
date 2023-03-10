@@ -27,16 +27,16 @@ const Contact = () => {
         <ul className="flex  w-40 justify-between p-2 text-purple-500 text-xl ">
                     <li>
                         <a href="https://linkedin.com/in/anuoluwapo-olusanya">
-                        <i className="fa-brands fa-linkedin"></i>
+                        <i className="fa-brands fa-linkedin" target= "_blank"></i>
                         </a>
                     </li>
                     <li>
                         <a href="https://twitter.com/Madmoiselle_anu"> 
-                           <i className='fa-brands fa-twitter'></i>
+                           <i className='fa-brands fa-twitter' target= "_blank"></i>
                         </a>
                     </li>
                     <li>
-                        <a href="https://github.com/Anu-022"><i className='fa-brands fa-github'></i></a>
+                        <a href="https://github.com/Anu-022" target= "_blank"><i className='fa-brands fa-github'></i></a>
                     </li>
                 </ul>
         </div>

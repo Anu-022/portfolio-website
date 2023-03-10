@@ -3,7 +3,7 @@ import ReadMore from './ReadMore';
 const About = () => {
     return (
         <section className="about ml-20 ">
-            <div className="about-header h-60 bg-pink-300">
+            <div className="about-header h-60 bg-pink-400">
             <div className="about-info flex justify-between items-center pt-5 mx-20">
                 <div className="profile-info ml-16 mt-5">
                     <h2 className="text-3xl font-bold text-gray-600">Anuoluwapo Olusanya</h2>
