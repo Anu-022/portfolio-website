@@ -20,6 +20,8 @@ const Contact = () => {
                     <p className="text-purple-500 font-semibold text-lg">PHONE</p>
                     <i className=" text-xl text-purple-500 mr-4 fa-solid fa-phone"></i>
                     <span className="text-gray-800 text-xl">(+234) 9150452303</span>
+                    <br/>
+                    <span className="text-gray-800 text-xl pl-9">(+234) 9150509629</span>
                 </div>
             </div>
         </div>

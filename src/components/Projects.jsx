@@ -44,8 +44,8 @@ const Projects = () => {
                             </div>   
                         </div>
                         <div className="mt-5 text-center">
-                           <a href={item.url} className= "text-white p-3">View Live</a>
-                           <a href={item.github} className=" text-white p-3">View on Github</a>
+                           <a href={item.url} className= "text-white p-3" target="_blank">View Live</a>
+                           <a href={item.github} className=" text-white p-3" target="_blank">View on Github</a>
                         </div>
                     </div>         
                 )
