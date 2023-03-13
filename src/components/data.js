@@ -61,7 +61,7 @@ const data = [
       { 
         id: 6,
         name:"Netflix Landing page clone",
-        url:"https:anusanya-netflix-clone.netlity.app",
+        url:"https://anusanya-netflix-clone.netlity.app",
         src:"https://res.cloudinary.com/dz5fsjeb4/image/upload/v1673877471/NetflixClone_d06kun.png",
         github:"https://github.com/Anu-022/netflic-clone",
         tech: [
