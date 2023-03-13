@@ -48,7 +48,7 @@ const data = [
       { 
         id: 5,
         name:"To-do List",
-        url:"https:anusanya-todo-app.netlify.app",
+        url:"https://anusanya-todo-app.netlify.app",
         src:"https://res.cloudinary.com/dz5fsjeb4/image/upload/v1673877462/TodoList_iirz33.png",
         github:"https://github.com/Anu-022/TodoList",
         tech: [
