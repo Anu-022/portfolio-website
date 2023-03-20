@@ -1,15 +1,15 @@
 
 const Contact = () => {
     return (
-    <div className="contact ml-20">
+    <div className="contact px-8 lg:px-0 pb-[50px]">
         <h2 className="text-3xl text-center text-purple-500 font-bold my-5">Contact Me</h2>
-        <div className="contact-info flex justify-center ml-12 gap-10">
-            <img style= {{width: '400px',height: '400px'}} src="https://res.cloudinary.com/dz5fsjeb4/image/upload/v1673808241/image1_st0uuz.jpg" alt="Anuoluwapo's Image" className="rounded-lg"/>
+        <div className="contact-info lg:flex justify-center lg:gap-10">
+            <img src="https://res.cloudinary.com/dz5fsjeb4/image/upload/v1673808241/image1_st0uuz.jpg" alt="Anuoluwapo's Image" className="rounded-lg mx-auto w-[300px] h-[300px] lg:mx-0 lg:w-[400px] lg:h-[400px]"/>
             <div className="mt-20">
                 <div>
                     <p className="text-purple-500 font-semibold text-lg">ADDRESS</p>
                     <i className=" text-xl text-purple-500 mr-4 fa-solid fa-location-dot"></i>
-                    <span className="text-gray-800 text-xl">Ikorodu Lagos, Nigeria</span>
+                    <span className="text-gray-800 text-xl"> Lagos, Nigeria</span>
                 </div>
                 <div className="mt-5">
                     <p className="text-purple-500 font-semibold text-lg">EMAIL</p>
