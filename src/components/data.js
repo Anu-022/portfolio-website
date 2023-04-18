@@ -61,7 +61,7 @@ const data = [
       { 
         id: 6,
         name:"Netflix Landing page clone",
-        url:"https://anusanya-netflix-clone.netlity.app",
+        url:"https://anusanya-netflix-clone.netlify.app",
         src:"https://res.cloudinary.com/dz5fsjeb4/image/upload/v1673877471/NetflixClone_d06kun.png",
         github:"https://github.com/Anu-022/netflic-clone",
         tech: [
@@ -86,7 +86,7 @@ const data = [
       { 
         id: 8,
         name:"Weather App",
-        url:"https://app.netlify.com/sites/anusanya-react-weather-app",
+        url:"https://anusanya-react-weather-app.netlify.app,",
         src:"https://res.cloudinary.com/dz5fsjeb4/image/upload/v1673877467/WeatherApp_iyhrtk.png",
         github:"https://github.com/Anu-022/react-weather-app",
         tech: [
