@@ -86,7 +86,7 @@ const data = [
       { 
         id: 8,
         name:"Weather App",
-        url:"https://anusanya-react-weather-app.netlify.app,",
+        url:"https://anusanya-react-weather-app.netlify.app",
         src:"https://res.cloudinary.com/dz5fsjeb4/image/upload/v1673877467/WeatherApp_iyhrtk.png",
         github:"https://github.com/Anu-022/react-weather-app",
         tech: [
